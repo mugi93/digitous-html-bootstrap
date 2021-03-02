@@ -1,0 +1,42 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.gray{
+    background-color: gray;
+    height: 500px;
+}
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+nav a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+.right{
+    display: flex;
+    flex-direction: column;
+}
+.right h3{
+    padding: 30px;
+    
+}
+.gray{
+
+    display: flex;
+
+
+}
+.gray h1{
+    margin-left: 10px;
+}
