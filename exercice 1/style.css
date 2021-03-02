@@ -1,20 +1,25 @@
 .yellow{
     background-color: yellow;
     height: 50px;
+    margin:0px 0px 10px 0px;
 }
 .blue{
     background-color: blue;
     height: 50px;
+    margin: 10px 0px 10px 0px;
 }
 .red{
     background-color: red;
     height: 50px;
+    margin:10px 0px 10px 0px;
 }
 .green{
     background-color: green;
     height: 50px;
+    margin:10px 0px 10px 0px;
 }
 .gray{
     background-color: gray;
     height: 50px;
+    margin: 10px 0px 10px 0px;
 }
